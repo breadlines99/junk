@@ -3,3 +3,5 @@
       BEGIN
         WRITELN('hi')
       END.
+
+      ghfgh
